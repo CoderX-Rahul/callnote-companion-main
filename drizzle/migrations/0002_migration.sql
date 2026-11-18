@@ -1,0 +1,1 @@
+ALTER TABLE public.call_reports ADD COLUMN call_date_only date;

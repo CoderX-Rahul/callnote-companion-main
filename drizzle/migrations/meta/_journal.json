@@ -1,0 +1,146 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793277057197,
+      "tag": "0000_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793277100949,
+      "tag": "0001_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793277147163,
+      "tag": "0002_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793427180258,
+      "tag": "0003_phase0_atomic_report_audit",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793511550399,
+      "tag": "0004_phase1_reporting_intelligence",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1793597765154,
+      "tag": "0005_phase2_report_intelligence",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1793684938138,
+      "tag": "0006_phase2_revoke_browser_intelligence_grants",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1793687634918,
+      "tag": "0007_phase3_field_effectiveness",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1793768523097,
+      "tag": "0008_phase3_revoke_browser_effectiveness_grants",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1793942613450,
+      "tag": "0009_phase4a_mr_profiles_ownership",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1794052800000,
+      "tag": "0010_phase_4a_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1794500000000,
+      "tag": "0011_phase_4a2_role_hierarchy",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1795000000000,
+      "tag": "0012_phase4a_soft_delete",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1795000001000,
+      "tag": "0013_idempotent_ai_drafts",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1795000002000,
+      "tag": "0014_pob_products_and_schemes",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1795000003000,
+      "tag": "0015_pob_report_projection",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1795000004000,
+      "tag": "0016_pob_monthly_totals",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1795000005000,
+      "tag": "0017_pob_call_count_distinct",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1795000006000,
+      "tag": "0018_pob_edit_counter",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1795000007000,
+      "tag": "0019_pob_unknown_free_quantity",
+      "breakpoints": true
+    }
+  ]
+}
